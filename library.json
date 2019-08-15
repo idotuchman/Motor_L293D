@@ -1,0 +1,13 @@
+{
+  "name": "Motor_L293D",
+  "keywords": "Motor, Driver, DC, H Bridge, L293D",
+  "description": "An Arduino library to drive motors with the L293D dual h-bridge motor driver.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/idotuchman/Motor_L293D"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
